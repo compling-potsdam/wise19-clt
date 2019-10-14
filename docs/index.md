@@ -14,7 +14,7 @@ nav_order: 1
 | Sprechstunde | Donnerstags, 13-14h |
 | Sitzungen    | Dienstags, 14-16h; Mittwochs, 10-12h           |
 | Raum   | 2.14.2.22; 2.14.0.09                          |
-| Website| [auf github](https://compling-potsdam.github.io/wise19-clt/)  [auf moodle]() |
+| Website| [auf github](https://compling-potsdam.github.io/wise19-clt/) || [auf moodle](https://moodle2.uni-potsdam.de/course/view.php?id=22034) |
 
 
 
