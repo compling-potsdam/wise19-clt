@@ -1,12 +1,12 @@
 remote_theme: pmarsceill/just-the-docs
 
 
-title: "CLT: Computerlinguistische Techniken"
+title: "CLT: CL-Techniken"
 
 email: david.schlangen@uni-potsdam.de
 
 description: >- # this means to ignore newlines until "baseurl:"
-  Kursseite für CLT: CL-Techniken
+  Kursseite für CLT: Computerlinguistische Techniken
 
 search_enabled: true
 
