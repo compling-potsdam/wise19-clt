@@ -20,8 +20,8 @@ Folien auf Moodle.
 |          |2019-10-30|          |Besprechung Ü1|          |
 |         4|2019-11-05|          |Parsingschemata|          |
 |          |2019-11-06|          |    Puffer|Ü2 Ab; Ü3 Aus|
-|         5|2019-11-12|          |Besprechung Ü2|          |
-|          |2019-11-13| Sequenzen|Wahrscheinlichkeit|          |
+|         5|2019-11-12| Sequenzen|Wahrscheinlichkeit          |
+|          |2019-11-13|          |Besprechung |          |
 |         6|2019-11-19|          |  n-Gramme|Ü3 Ab; Ü4 Aus|
 |          |2019-11-20|          |Besprechung Ü3|          |
 |         7|2019-11-26|          |      HMMs|          |
