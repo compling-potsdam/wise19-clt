@@ -42,8 +42,7 @@ Vertiefend können Sie hinzuziehen:
 
 Es wird 8 Übungen zur Bearbeitung geben, 4 pro Semesterhälfte. Bei jeder können maximal 100 Punkte erreicht werden.  Aus jeder Semesterhälfte gehen die drei am besten bewerteten in die Gesamtwertung ein. Um die Veranstaltung abschließen zu können, müssen Sie mindestens 150 Punkte pro Semesterhälfte erreichen, sowie mindestens einmal eine Aufgabe in der Übungssitzung vorrechnen.
 
-Zum Modulabschluß müssen Sie in der vorlesungsfreien Zeit ein Projekt erarbeiten. Die Modulnote setzt sich zusammen zu 70% aus der Note für dieses Projekt, und zu 30% aus der Note für die Übungen (Durchschnitt pro Semesterhälft; 50 Punkte = 4.0).
-
+Zum Modulabschluß müssen Sie in der vorlesungsfreien Zeit ein Projekt erarbeiten. Die Modulnote ist die Note dieses Projektes.
 
 
 ### E-mail
